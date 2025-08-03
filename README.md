@@ -1,4 +1,4 @@
-# Coding-in-C
+# CSC190 - Data Structures and ALgorithms
 
 ## SeamCarving
 Image processing tool that resizes images in a content-aware manner such that most interesting features of the image are preserved.
